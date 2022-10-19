@@ -29,7 +29,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pbmtojbg85", "demo\pbmtools
 		{C8353FEE-3BBD-40F4-AA72-4D6468277D91} = {C8353FEE-3BBD-40F4-AA72-4D6468277D91}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjbig", "thirdparty\jbig-2.0\libjbig.vcxproj", "{C8353FEE-3BBD-40F4-AA72-4D6468277D91}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libjbig", "thirdparty\jbig-2.1\libjbig.vcxproj", "{C8353FEE-3BBD-40F4-AA72-4D6468277D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
